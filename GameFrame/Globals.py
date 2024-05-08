@@ -16,7 +16,7 @@ class Globals:
     window_name = 'Pong'
 
     # - Set the order of the rooms - #
-    levels = ["WelcomeScreen", "Maze", "ScrollingShooter", "BreakOut"]
+    levels = ["WelcomeScreen", "GamePlay"]
 
     # - Set the starting level - #
     start_level = 0
